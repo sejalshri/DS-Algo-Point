@@ -126,3 +126,5 @@ Format: -[Program name](name of the file)
 -[Tim sort](Tim_Sort.cpp)
 
 -[Manhattan Distance](manhattan_distance.cpp) 
+
+-[priority based scheduling](priority_scheduling.cpp)
